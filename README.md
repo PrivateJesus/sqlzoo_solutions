@@ -4,7 +4,7 @@
 ### Tutorials: Learn SQL step by step
 | Section  | Answers |
 | ------------- | ------------- |
-| 0 SELECT basics | --- |
+| 0 SELECT basics | [Solution](https://github.com/PrivateJesus/sqlzoo_solutions/blob/main/Tutorials%3A%20Learn%20SQL%20step%20by%20step/0%20SELECT%20basics) |
 | 1 SELECT name | --- |
 | 2 SELECT from World | --- |
 | 3 SELECT from Nobel | --- |
